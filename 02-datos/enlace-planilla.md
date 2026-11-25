@@ -14,4 +14,4 @@
 -
 
 ## Gráfico
-Qué muestra:
+Qué muestra:**ausencia justificada, ausencia injustificada y llegadas tarde**
